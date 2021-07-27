@@ -1,0 +1,2 @@
+# The-plus-minus-DEMATEL-model
+To opening the black box of the DEMATEL,  a plus-minus DEMATEL model is proposed, which can not only evaluate the overall causal influence between factors but can decompose it into synergy effects and trade-off effects. The data have been included in the code to ensure working without external file. The code can be applied to other cases only by changing the matrix Z.
