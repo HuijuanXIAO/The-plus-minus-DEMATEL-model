@@ -1,5 +1,5 @@
 # The-plus-minus-DEMATEL-model
-Compared with the traditional Decision-Making Trial and Evaluation Laboratory (DEMATEL) model, the plus-minus DEMATEL model can not only evaluate the overall causal influence between factors but can explore the synergy and trade-offs by opening the blackbox. The interation results of the sustainable development goals (SDGs) using the proposed model are illustrated here. For more details, a related reference is provided below.
+Compared with the traditional Decision-Making Trial and Evaluation Laboratory (DEMATEL) model, the plus-minus DEMATEL model can not only evaluate the overall causal influence between factors but can explore the synergy and trade-offs by opening the blackbox. The interation results of the sustainable development goals (SDGs) using the proposed model are illustrated here.For more details, a related reference is provided below. If the code is obtained for potential use in a publication or presentation, I kindly ask you to cite them properly, as shown below.
 
 Notes:
 (1) The data have been included in the code to ensure working without external file. 
